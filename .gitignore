@@ -1,0 +1,8 @@
+*.terraform.lock.hcl
+*terra-key-ec2
+*terra-key-ec2.pub
+*modules.json
+*LICENSE.txt
+*terraform.tfstate
+*settings.json
+*terraform
